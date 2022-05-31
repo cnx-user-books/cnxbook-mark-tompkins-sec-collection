@@ -1,0 +1,314 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Editing Module Contents</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38193</md:content-id>
+  <md:title>Editing Module Contents</md:title>
+  <md:abstract>This module explains the various methods available to edit a module's contents.</md:abstract>
+  <md:uuid>88cfe4a2-58dc-47d3-9ec1-65959aaa4f74</md:uuid>
+</metadata>
+
+<content>
+ 
+	<para id="edittext">
+	    The "Edit" tab for the module displays the contents of the "index.cnxml" 
+            file. This file contains the text that appears in the module, plus the 
+            CNXML instructions to include any image, sound, or other media files 
+            that appear in the module. The default content display and edit is with 
+            the Edit-In-Place editor. Alternatively, you can display and edit the 
+            content with the Full Source editor by clicking <code>Switch to Editing 
+            Full Source</code>. From this tab you can perform the following actions 
+            on the file:
+
+	    <list id="editoptions"><item><link target-id="importsec" strength="3">Import content
+              into the index.cnxml file</link></item>
+	      <item><link target-id="exportsec" strength="3">Export the index.cnxml
+              file to an external XML editor</link></item>
+	      <item><link target-id="editinplacesec" strength="3">Edit the index.cnxml
+              file with the Edit-In-Place editor</link></item>
+	      <item><link target-id="editfullsrcsec" strength="3">Edit the index.cnxml
+              file with the Full Source editor</link></item>
+
+<!-- This feature is not currently supported, but may be if the software is updated in the future.              
+
+              <item><cnxn target="exteditsec" strength="9">Edit the index.cnxml 
+              file with an External Text Editor</cnxn></item>
+-->            </list>
+
+	</para>
+	  
+	  <figure id="editmodule"><media id="id10875994" alt="index.cnxml in the Edit-In-Place editor">
+  <image src="/content/m19610/latest/module-edit-in-place.png" mime-type="image/jpeg"/>
+</media>
+	    
+	  <caption>The "Edit" tab displaying contents of the "index.cnxml" file in the Edit-In-Place editor mode.</caption></figure>
+
+
+    <section id="importsec">
+      <title>Import Content into the "index.cnxml" File</title>
+        <para id="importcontentpara1">
+	    To import content into the "index.cnxml" file, use the following steps:
+
+	  <list id="importlist1" list-type="enumerated"><item>Select the format of file you want to import from the drop-down
+	    list next to the <code>Import</code> button. The valid formats are:
+	    <link url="http://cnx.rice.edu/help/UsingMSWord">Microsoft Word</link>, 
+	    <link url="http://cnx.org/help/UsingOOWriter">OpenOffice Writer</link>, <link document="m11160">XMLSpy/Authentic</link>, 
+	    and Plain XML.</item>
+	    <item>Click <code>Import</code>. A screen displays with a text box
+	    for the pathname of the file you want to import.</item>
+	    <item>Type the pathname of the file in the text box or use 
+	    <code>Browse</code> to display the name of the pathname in the text 
+	    box.</item>
+	    <item>Click <code>Import</code>. The content of the file you
+	    specified is copied into the "index.cnxml" file in your module.
+	    <note id="id11563726" type="warning">When you click <code>Import</code> in the last 
+	    step, the contents of the "index.cnxml" file are overwritten 
+	    by the contents of the imported file.</note></item>
+	  </list>
+	</para>
+      </section>	
+	
+
+    <section id="exportsec">	
+      <title>Export the "index.cnxml" File to an External XML Editor</title>
+        <para id="exportpara1">
+	    You can export the "index.cnxml" file so that you can edit it with a 
+	    software package that is specifically designed to edit XML files.
+	    The "index.cnxml" file must be altered to allow the XML editor to read 
+	    it. And once you have completed your edits, the file must be altered again 
+	    to remove the changes for editor readability. The Connexions Export and 
+	    Import functions automatically add and remove the changes for editor 
+	    readability. Currently, the only XML editor format supported by 
+	    Connexions is the format used by the 
+	    <link url="http://www.altova.com">Altova</link> <term>xmlspy</term>® 
+	    editor or the Altova <term>authentic</term>® editor.
+        </para>
+
+        <para id="exportpara2">
+	    To export the "index.cnxml" file to be edited with an XML editor, 
+	    use the following steps:
+	    
+	  <list id="importexportlist1" list-type="enumerated">
+	    <item>Select the format of the file you want to export from the 
+	    drop-down list next to the <code>Export</code> button. The valid formats
+	    are: <link document="m11160">XMLSpy/Authentic</link>, and Plain XML.
+	    </item>
+	    <item>Click <code>Export</code>. A dialog box displays asking if you
+	    want to open the file or save it to a disk.</item>
+	    <item>Specify that you want to save the file to a disk.</item>
+	    <item>Specify the pathname of where you want to save the file.</item>
+	    <item>Launch your XML editor and edit the file.</item>
+	  </list>
+	</para>
+	    
+        <para id="exportpara3">
+	    To import the "index.cnxml" file back into Connexions, use the 
+	    instructions for <link target-id="importsec">Import Content from Outside 
+	    Connexions</link> mentioned earlier in this module.
+        </para>
+    </section>
+
+
+    <section id="editinplacesec">
+      <title>Edit the index.cnxml file with the Edit-In-Place Editor</title>
+	<para id="eippara1">The Edit-In-Place editor is the default editor on the "Edit" tab. 
+	   You can insert new text and media objects into a module or modify 
+	   the existing contents of a module with this editor. You do not 
+	   have to be familiar with the CMXML tags to use Edit-In-Place. It 
+           inserts the appropriate CNXML tags for you when you insert a new
+           item in the file. In addition, it has a help feature that 
+           describes the CNXML tags for the items you insert or edit with it. 
+          
+	 </para>
+	 
+     <section id="eipnewmodulesec">
+       <title>Inserting Content in an Empty Module</title>
+	 <para id="eippara2">To insert text and media objects into a new module that contains
+	   no content, use the following steps:
+	   
+	   <list id="eiplist1" list-type="enumerated"><item>Click in the white box that says "Click To Edit Paragraph" in the Edit-In-Place editor. 
+	  <figure id="eipnewmodulefig"><media id="id11681307" alt=""><image src="/content/m19610/latest/eip-click-to-insert-text.png" mime-type="image/png"/></media>
+	    
+	  <caption>The "Click To Edit Paragraph" text box in the Edit-In-Place editor.</caption></figure>
+	      The white box is replaced by a blue editing box.</item>
+	     <item>Type the text you want to add in the blue editing box.	     
+	  <figure id="eipinsertmodulefig">
+	    <media id="id13676598" alt=""><image src="/content/m19610/latest/eip-edit-empty-paragraph.png" mime-type="image/png"/></media>
+	    <caption>The editing box in the 
+	    Edit-In-Place editor.</caption>
+	  </figure>
+	     </item>
+	     <item>Click <code>Save</code> to save the text you typed. 
+	     The blue editing box is replaced by a white box that displays 
+	     your entry.</item>
+	   </list>  
+	 </para>
+       </section>
+       
+       
+       <section id="eipeditmodulesec">
+         <title>Editing Existing Content with Edit-In-Place</title>
+	   <para id="eipeditpara1">To edit the content of a module, use the following steps:
+	     
+	     <list id="eiplist2" list-type="enumerated">
+	       <item>Display the module you want to edit with Edit-In-Place.
+	       </item>
+	       <item>Scroll down to display the white text box that contains 
+	       the item you want to edit.</item>
+               <item>Click in the text box. The white box is replaced by a 
+	       blue editing box that displays the text of the element.	       
+	     <figure id="eipeditmodulefig"><media id="id12723080" alt=""><image src="/content/m19610/latest/eip-edit-existing-paragraph.png" mime-type="image/png"/></media>
+	       
+	     <caption>The blue text box in the Edit-In-Place editor.</caption></figure>
+               </item>
+	       <item>Make the necessary changes to the item.</item>
+	       <item>Click <code>Save</code> to save the entry or click 
+	       <code>Cancel</code> to clear the entry in the blue editing 
+	       box.</item>
+               <item>Repeat steps 2 through 5 for any item you want to edit.
+               </item>	       	  
+	     </list>  	 
+	     <note id="id13676904">In the white text boxes mathematical equations are 
+	     displayed as they appear in the module. In the blue editing box 
+	     mathematical equations are displayed in the MathML markup language. 
+	     Edit equations by making changes to the MathML.</note>
+	   </para>  
+       </section>
+	       
+	     
+       <section id="eipadditemsec">
+         <title>Adding Content Items with Edit-In-Place</title>
+	   <para id="eipadditempara1">You can add new content items to a module with Edit-In-Place.
+	     The types of items you can add are: sections, paragraphs, examples, exercises, notes, lists, code blocks, equations, and tables. Edit-In-Place places the opening and closing CNXML 
+	     tags around the item and it generates a unique item ID for each 
+	     item you add. To add new items, use the following steps:
+	     
+	     <list id="eipadditemlist" list-type="enumerated"><item>Display the module you want to edit with Edit-In-Place.
+	       </item>
+	       <item>Scroll down to display the location in the module in
+	       which you want to insert the content item. You can insert 
+	       the new item above or below and existing item by using the
+	       <code>Insert...</code> link above or below the existing item
+	       </item>
+	       <item>Select and click the type of item you want to enter from the 
+	       drop-down list next to the <code>Insert...</code> link. 
+	       These items are described in the help text, which can be accessed by selecting "Other Elements" from the drop-down list.</item> 
+	       <item>An empty blue editing box 
+               displays for the item you selected. You can display help text 
+               for the item you selected by clicking <code>Help editing xxx</code> 
+	       in the upper right corner of the blue box, where xxx is the
+               CNXML tag for the item you selected.</item>
+	       <item>Type the text that is appropriate for the type of item 
+	       in the blue editing box.</item> 
+	       <item>Click <code>Save</code> to save the entry or click 
+	       <code>Cancel</code> to clear the entry in the blue editing box.</item>
+	       <item>Repeat steps 2 through 6 for each new content item 
+	       you want to add to the module.</item>
+	     </list>
+	   </para>
+   </section>
+   </section>
+
+
+   <section id="editfullsrcsec">
+      <title>Edit the "index.cnxml" File with the Full Source Editor</title>
+	<para id="editonlinepara">
+	    You can edit the content and CNXML tags in the "index.cnxml" file 
+	    within Connexions with the Full Source editor. This method of editing 
+	    is recommended for quick changes only. This is a simple text editor 
+	    and it does not have the advanced functions (for example, spell 
+	    checking and text searching) that are available with commercially
+	    available text editors. To edit the file with the Full Source 
+	    editor, use the following steps:
+	    
+	  <list id="editingonlinelist" list-type="enumerated">
+	    <item>Click <code>Switch to Editing Full Source</code> on the "Edit" 
+	    tab. The contents of the "index.cnxml" file are displayed in the 
+	    Full Source editor mode. 	    
+	  <figure id="fullsourceeditmode"><media id="id11282538" alt=""><image src="/content/m19610/latest/module-edit-full-source.png" mime-type="image/png"/></media>
+	    
+	  <caption>The "Edit" tab displaying the contents of the "index.cnxml"
+	    file in the Full Source editor mode.</caption></figure>
+	    </item>
+            <item>Scroll down to display the location in the module in
+	       which you want to edit.</item>
+	    <item>Click in the text window and begin editing.</item>
+	    <item>Click <code>Save</code> to save to save your changes.</item>
+	  </list>
+	</para>
+	
+	
+        <para id="modules11">
+	    As you edit the "index.cnxml" file, click <code>Save</code> at any 
+	    point to save your changes. The page reloads and validates your CNXML
+	    markups every time you save your changes. If there are no CNXML tag 
+	    errors, your markup is valid and "Saved" appears in an information box 
+	    at the top of the tab. If there are errors in your CNXML markup, they 
+	    are listed above the file content.  
+        </para>
+        
+        <note id="id11282127">Saving and publishing are two different operations. When you save
+        your editing changes in the Full Source editor, your changes are saved 
+        in your work area; they are not entered into the Connexions repository. 
+        Your module must be published to be entered into the repository and be 
+        accessible by visitors to Connexions. For information about publishing, 
+        see the topic <link target-id="submitmodule">Publishing the Module</link> 
+        later in this module.</note> 
+
+
+    <section id="validatesec1">
+      <title>Validating Your Work in the Full Source Editor</title>
+            <para id="validatepara1">
+	      Any "index.cnxml" file that you publish in the Connexions repository 
+	      must be a valid CNXML document. This means that the file must be 
+	      well formed and contain no CNXML errors. If it does contain errors, 
+	      a <link target-id="validatefig">description of each error</link> 
+	      appears when you click <code>Save</code>. Your changes are not 
+	      saved until the errors are corrected. 
+
+	</para>
+	    <figure id="validatefig"><media id="id11282203" alt=""><image src="/content/m19610/latest/module-edit-full-source-errors.png" mime-type="image/png"/></media>
+	      
+	    <caption>Example of validation errors in the Full Source editor</caption></figure>
+	    
+	<para id="validatepara2">
+	      A description of the errors appears in the information box that 
+	      appears above the content.
+	    <note id="id11282231" type="warning">
+	      You cannot publish the module in Connexions until all the CNXML errors 
+	      are corrected and the "index.cnxml" file is validated.
+	    </note>
+	</para>    
+	  
+    </section>
+    </section>
+    
+<!-- This feature is no longer supported, but may be supported again in the future if the ExternalEditor software is updated.
+    
+    <section id="exteditsec">
+      <name>Edit the index.cnxml File with an External Text Editor</name>
+	<para id="externalpara">
+	    Another method of editing the "index.cnxml" file is with an external
+	    text editor that is not specifically designed to be an XML editor.
+	    Note that when you view the module on the "Files" tab a small pencil 
+	    icon appears to the right of the "index.cnxml" filename. Click on 
+	    this icon to launch an editing session of the "index.cnxml" file in 
+	    an external text editor. This editing method does the downloading and 
+	    uploading of the "index.cnxml" file for you, but it is only a text 
+	    editor. You must manually enter all the CNXML tags. If you are not 
+	    familiar with CNXML, this method is slow and awkward. It also 
+	    requires that you or your system administrator set up the external 
+	    editor as the default editor for files of type <term>.cnxml</term> 
+	    before you can use it. In addition, you or your system administrator 
+	    must install the Zope ExternalEditor client in a Windows environment 
+	    and the Zope EditManager in a Macintosh environment. 
+	</para>
+    </section>
+
+-->
+
+
+
+</content>
+
+</document>

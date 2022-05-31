@@ -1,0 +1,113 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>EAC Toolkit - Student Module Template</title>
+
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6ed441d8-7761-4aef-ba60-43d27cdf96c8</md:uuid>
+</metadata>
+
+<!-- DO NOT EDIT THE INFORMATION, INSTEAD GO TO THE METADATA TAB IN EDITOR -->
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<content>
+
+<note type="HOW TO EDIT" id="idp5492752"><label>HOW TO EDIT</label>Write your module for a student audience. To complete or edit the sections below erase the provided textual commentaries then add your own content using one or more of the following strategies:
+<code display="block" id="idp1309344">- Type or paste the content directly into the appropriate section
+
+- Link to a published CNX module or an external online resource
+  using the “Links” tabs (see example on the right)
+
+- Link to a document or multimedia file within the content after
+  uploading the file using the “Files” tab (see example below)
+
+- Cite content not available online
+</code>
+</note>
+
+<figure id="figure-example"><title>Word Version of this Template</title>
+  <media id="idm1505104" alt=""><download src=" EAC TK STD TEMPLATE.doc" mime-type="application/msword"/></media>
+  <caption>This is an example of an embedded link. (Go to "Files" tab to delete this file and replace it with your own files.)</caption>
+
+
+<!-- Other common MIME TYPES are &#8220;image/jpeg&#8221; for ___.jpg, &#8220;audio/mpeg&#8221; for ___.mpg, 
+&#8220;video/quicktime&#8221; for ___.mov, &#8220;application/powerpoint&#8221; for ___.ppt
+&#8220;application/excel&#8221; for ___.xls OR you can search for other MIME TYPES--></figure>
+
+
+
+<!-- START OF INTRODUCTION SECTION -->
+  <section id="intro-section">
+  <title>Introduction</title>
+
+   <para id="introduction-section">This will get your students started; include a brief concise overall view of the module and its objectives broadly stated.  </para>
+
+<!-- LINK TO DOCUMENT UPLOADED AND STORED IN FILES SECTION OF THIS MODULE -->
+  
+<!-- LINK TO MULTIMEDIA FILE UPLOADED AND STORED IN FILES SECTION OF MODULE -->
+  
+
+</section>
+<!-- END OF INTRODUCTION SECTION -->
+
+
+
+<!-- START OF SECOND SECTION -->
+   <section id="whatYouNeedToKnow-section">
+   <title>What you need to know …</title>
+
+<para id="what-you-need-to-know-section">Include information that you expect your students to study and learn in this module as well as information that will help them carry out the module activities.</para>
+
+</section>
+
+<!-- END OF SECOND SECTION -->
+
+
+<!-- START OF THIRD SECTION -->
+   <section id="whatYouWillDo-section">
+   <title>What you will do ...</title>
+
+<para id="what-you-will-do-section">In this section, you will describe the module’s activities and/or exercises.  You may also provide students with step by step instructions on how to carry them out.</para>
+
+</section>
+
+<!-- END OF THIRD SECTION -->
+
+
+<!-- START OF FORTH SECTION -->
+   <section id="whatDidYouLearn-section">
+   <title>What did you learn?</title>
+
+<para id="what-did-you-learn-section">This section provides closure to the module for students.  It may consist of a formal conclusion that summarizes the module and outlines its learning objectives.  It could provide questions to help students debrief and reflect on what they have learned. Assessment forms (e.g., the “Muddiest Point” Form) could be used to evaluate the quality of the learning experience.  In short, this section specifies the strategy for bringing the module to a close. </para>
+
+</section>
+
+<!-- END OF FOURTH SECTION -->
+
+
+<!-- START OF APPENDIX SECTION -->
+   <section id="appendix-section">
+   <title>Appendix</title>
+
+<para id="appendix">This optional section contains additional or supplementary information related to this module. It could include: assessment, background such as supporting ethical theories and frameworks, technical information, discipline specific information, and references or links. </para>
+
+</section>
+
+<!-- END OF APPENDIX SECTION -->
+
+<!-- START OF EAC TOOLKIT REFERENCE SECTION -->
+   <section id="info-section">
+   <title>EAC ToolKit Project</title>
+
+   <section id="ref-info">
+   <title>This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.</title>
+   <para id="message">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="nsf-info">
+   <title>Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</title>
+   <para id="message3"/>
+   </section>
+</section>
+
+
+</content>
+</document>

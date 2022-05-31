@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Previewing a Module</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38209</md:content-id>
+  <md:title>Previewing a Module</md:title>
+  <md:abstract>This module explains how to preview a module before publishing.</md:abstract>
+  <md:uuid>1e1c2b27-448b-4afc-a7c4-4609eac84c70</md:uuid>
+</metadata>
+
+<content>
+
+	<para id="previewpara">After editing the module, you should preview the module to verify that it 
+	  appears as you want it to appear. You can view modules from the "Preview"
+	  tab in the following ways:
+
+	  <list id="previewlist">
+	    <item><link target-id="onlinepreview" strength="3">Preview the module 
+	    on-line</link></item>
+	    <item><link target-id="previewprint" strength="3">Preview the module 
+	    in a print version (PDF file)</link></item>
+	    <item><link target-id="viewchanges">View the change summary</link></item>
+
+	  </list>
+
+Note that these three options are also available in the <link target-id="module-status-fig">Module Status</link> sidebar. The sidebar also has a few extra options that are not available on the "Preview" tab (<code>Source</code> and <code>Discard</code>) which we discuss <link target-id="onlinecodesourcesection">below</link>.
+
+<figure id="module-status-fig">
+  <media id="module-status-media" alt="Module Status portlet" display="block">
+    <image src="/content/m19610/latest/module-status.png" mime-type="image/png"/>
+  </media>
+<caption>The Module Status portlet.</caption>
+</figure></para>
+
+    <section id="onlinepreview">
+      <title>Previewing Modules (Online)</title>
+	<para id="onlinepreviewpara">To view a module online, use the following steps:
+	    
+	  <list id="onlinepreviewlist1" list-type="enumerated"><item>Click on the "Preview" tab. The "Preview" screen displays. 
+	    </item>
+	    <item>Click the <code>Online Preview</code> link. This 
+	    displays an on-line version of the module that is similar to the 
+	    on-line display of the published module. The difference between
+	    the preview and the published versions is that the preview cannot display certain porlets (like the <link document="m10885" target-id="recentlyviewed-section">Recently Viewed</link> portlet). Review the module content and verify that it appears  
+	    as you intended it to display.</item>
+	    <item>Use your browser's <code>Back</code> function to return to the "Preview" screen.
+	    </item>
+	  </list>  
+	</para>
+    </section>
+    
+    
+    <section id="previewprint">
+      <title>Previewing Modules (PDF)</title>
+        <para id="previewprintpara">The print version of a module is formatted differently than the online 
+	    version. This difference is necessary because of the differences in the
+	    online and printed media. To view a print version of the module, use
+	    the following steps:
+	    
+	  <list id="printpreviewlist1" list-type="enumerated">
+	    <item>Click on the "Preview" tab. The "Preview" screen displays. </item>
+	    <item>Click the <code>Print Preview</code> link. 
+	    An "Opening index.pdf" dialog box appears.</item>
+	    <item>Verify that the option to open the file with a PDF viewing 
+	    application is selected and click <code>OK</code>. The print version 
+	    of the module displays.</item>
+	    <item>Review the module display and verify that text and figures display as 
+	    you intended them to display. </item>
+	    <item>You can print this PDF file using your PDF viewer's file/print
+	    option.</item>
+	    <item>Close the PDF viewing application. </item>
+	  </list>  
+	</para>
+	
+    </section>
+    
+    
+     <section id="viewchanges">
+	<title>Viewing Change Summary</title>
+	  <para id="changespara1">When editing an existing module, you can view a summary of the 
+	    differences between the last published version of the module and
+	    the version you are currently editing. Click the <code>Changes</code>
+	    link to view the <link target-id="changesummaryfig">change summary</link>. 
+	    This option is useful when you checked out a module some time ago and 
+	    do not remember what changes you made to it. 
+	  </para>
+	  
+	   <figure id="changesummaryfig"><media id="id10240945" alt=""><image src="content/m19610/latest/module-view-changes.png" mime-type="image/png"/></media>
+	     
+	   <caption>The "Changes to module" summary.</caption></figure>
+	   
+	  <para id="changespara2">The "Changes to module" summary lists changes to the module, including role 
+	    assignments and the names of any files that were changed, files that were 
+	    added, and files that were removed. Click on a file name to display 
+	    a brief description of the changes.
+	  </para>
+	  
+    
+    
+    <para id="eip-367">Clicking on the <code>index.cnxml</code> link will display the <link target-id="module-view-diff-fig">CNXML markup</link> of the module. Lines of markup which have been removed or the "before" version of altered lines are shown with a minus sign in the left margin. Lines which have been added or the "after" version of altered lines are shown with a plus sign in the left margin.
+
+<figure id="module-view-diff-fig">
+  <media id="module-view-diff-media" alt="Example of index.cnxml diff." display="block">
+    <image src="/content/m19610/latest/module-view-diff.png" mime-type="image/png"/>
+  </media>
+<caption>An example of the "diff" log, showing the changes in index.cnxml.</caption>
+</figure></para>
+
+</section>
+
+<section id="onlinecodesourcesection">      <title>Previewing the code source</title>
+<para id="onlinecodesource">Occasionally it may be convenient to view the markup source for 
+	    a module. To view the source of the module, click the 
+	    <emphasis>Source</emphasis> link under the "View" heading in the "Module 
+	    Status" sidebar. The most recent markup source that has been saved 
+	    displays with line numbers.  
+	  <note id="id10241014" type="note">
+	  This feature is useful when you are trying to find a markup error.
+	  </note>
+	</para>
+</section>
+
+<section id="discardmodulesection">      <title>Discarding Your Changes</title>
+    <para id="discardmodule">The situation may arise in which you wish to return a module that you
+	  are editing back to its original state: the state in which it was 
+	  before you began editing it. To do this, click the 
+	  <emphasis>Discard</emphasis> link under the "Actions" heading in the 
+	  "Module Status" sidebar. 
+
+<figure id="discard-module-fig">
+  <media id="discard-module-media" alt="Discard options" display="block">
+    <image src="content/m19610/latest/discard-module.png" mime-type="image/png"/>
+  </media>
+<caption/>
+</figure>
+
+<list id="discard-module-list" list-type="labeled-item">
+<item><label>Discard</label>The module will revert back to the state it 
+	  was in when you checked it out. If the module is new and has never been published, you will lose all the content you entered and the module will be blank.</item>
+<item><label>Delete</label>This button removes the module from your current work area but <emphasis>does not</emphasis> remove it from the repository. Once published, a module remains in the Connexions repository.</item>
+<item><label>Cancel</label>This button will return you to the screen you just left.</item>
+</list>
+      </para>
+    </section>
+    
+
+</content>
+
+</document>

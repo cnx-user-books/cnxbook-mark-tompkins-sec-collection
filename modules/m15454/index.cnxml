@@ -1,0 +1,221 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+
+<title>Building an Ethics Module for Business, Science, and Engineering Students</title>
+
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8f5b1d2d-5d91-4879-9eb5-0f7650368218</md:uuid>
+</metadata>
+
+<!-- DO NOT EDIT THE INFORMATION, INSTEAD GO TO THE METADATA TAB IN EDITOR -->
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<content>
+
+<note type="HOW TO EDIT" id="idm6539408"><label>HOW TO EDIT</label>Write your module for a student audience. To complete or edit the sections below go into edit mode and replace the provided sample content.
+</note>
+
+<figure id="element-221"><title>Pre-Test Format in Word</title>
+  <media id="idm6106528" alt=""><download src="Intro_Computers_Pre-Test.doc" mime-type="application/msword"/></media>
+  <caption>Clicking on this figure opens an exercise in the Pre-Test format in Word.</caption>
+ </figure><figure id="element-363"><title>Gray Matters Format</title>
+  <media id="idm7816176" alt=""><download src="GM_Hughes_V2.doc" mime-type="application/msword"/></media>
+  <caption>This figure provides in Word a Gray Matters format used to present key decision points in the Hughes Aircraft case.  (See Computing Cases for more on this case.)</caption>
+</figure>
+
+
+
+<!-- START OF INTRODUCTION SECTION -->
+  <section id="intro-section">
+  <title>Introduction</title>
+
+   <para id="introduction-section"><title> Sample Introduction </title> This module is designed to help you understand how ethical issues arise daily in your field.  You will examine everyday scenarios or decision points and respond in terms of the ethical issues that arise.  Below are frameworks that describe how to make ethical decisions, how to solve problems with ethical implications, and how to test your decisions and solutions in terms of their ethics.</para>
+
+<!-- LINK TO DOCUMENT UPLOADED AND STORED IN FILES SECTION OF THIS MODULE -->
+  
+<!-- LINK TO MULTIMEDIA FILE UPLOADED AND STORED IN FILES SECTION OF MODULE -->
+  
+
+</section>
+<!-- END OF INTRODUCTION SECTION -->
+
+
+
+<!-- START OF SECOND SECTION -->
+   <section id="whatYouNeedToKnow-section">
+   <title>What you need to know …</title>
+
+<para id="what-you-need-to-know-section"><title> Sample description of module content </title> This section provides general background information. It includes information on how to (1) define problems, (2) design and evaluate ethical solutions, and (3)resolve disagreements. These frameworks can be used with the Pre-Test and Gray Matters activities.</para><list id="element-852" list-type="enumerated"><title>Problem Solving Stages (Based on analogy between the problem solving and design processes</title>
+
+<item><emphasis>Problem Specification or Definition:</emphasis> This stage consists of defining the problem you face from different standpoints or frames.  Carefully defining your problem is an essential step to designing effective and ethical solutions.  Defining your problem from multiple frames or vantage points, also helps you to create imaginative and ethical solutions to problems that appear unsolvable under commonplace framings.</item>
+
+<item><emphasis>Solution Generation: </emphasis>In this stage, you will try to resolve the problem you defined in the previous stage.  In a section below, you will find a list of generic solutions to disagreements between stakeholders.</item>
+
+<item><emphasis>Solution Testing: </emphasis>The solutions developed in the second stage must be tested in different ways.  The <emphasis>reversibility test</emphasis> encapsulates the ethical theory of deontology; exploring the issue from the standpoint of those on the receiving end of your action outlines the idea of reciprocity which is fundamental to deontology.  The <emphasis>harm/benefits</emphasis> test has you weigh benefits against harms and steers you toward that solution that produces the most benefits and the least harms.  This provides a reasonable approximation to the theory of Utilitarianism which enjoins us to produce the greatest good for the greatest number.  Finally, the <emphasis>publicity test</emphasis> has you attribute the values embedded in the act to the character of the agent.  in this way, the publicity test encapsulates virtue ethics.</item>
+
+<item><emphasis>Solution Implementation:</emphasis> The chosen solution must be examined in terms of how well it responds to various situational constraints that could impede its implementation.  To carry out this stage, imagine a check list of resource, interest, and technical constraints that could give rise to obstacles.  Go through the list to see if any of these constraints applies to your solution.</item></list><list id="element-122" list-type="enumerated"><title>Problems can be defined in different ways.  By looking at a problem through different definitional frames, we are able to uncover non-obvious, creative solutions.</title>
+
+
+<item><emphasis>Technical Puzzle:</emphasis> If the problem is framed as a technical puzzle, then solutions would revolve around developing designs that optimize both ethical and technical specifications, that is, resolve the technical issues and realize ethical value.  In this instance, the problem-solver must concentrate on the hardware and software components of the surrounding socio-technical system (STS).</item>
+
+<item><emphasis>Social Problem: </emphasis>If the problem is framed as a social problem, then solutions would revolve around changing laws or bringing about systemic reform through political action.  This would lead one to focus on the people/groups/roles component (working to social practices) or the legal component of a socio-technical system.</item>
+
+<item><emphasis>Stakeholder Conflict: </emphasis>If the problem is framed as a conflict between different stakeholder interests, then the solution would concentrate on getting stakeholders (both individuals and groups) to agree on integrative or compromise-building solutions.  This requires concentrating on the people/group/role component of the STS.  (Note: A stakeholder is any group or individual with a vital interest at play in the situation.)</item>
+
+<item><emphasis>Management Problem: </emphasis>  Finally, if the problem is framed as a management problem, then the solution would revolve around changing an organization's procedures.  Along these lines, it would address the organization's (1) fundamental goals, (2) decision recognition procedures, (3) organizational roles, and/or (4) decision-making hierarchy.  These are the four components comprise the organization's CID (corporate internal decision) structure.</item>
+</list><list id="element-722" list-type="enumerated"><title>Ethics Tests</title>	
+<item><emphasis>Reversibility:</emphasis> Would this solution alternative be acceptable to those who stand to be most affected by it? To answer this question, change places with those who are targeted by the action and ask if from this new perspective whether the action is still acceptable?</item>
+<item><emphasis>Harm / Benefits:</emphasis> What are the harms your solution is likely to produce? What are its benefits? Does this solution produce the least harms and the most benefits when compared to the available alternatives?</item>
+<item><emphasis>Publicity:</emphasis> Would you want to be publicly associated or identified with this action?  In other words, assume that you will be judged as a person by others in terms of the moral values expressed in the action under consideration.  Does this accord with how you would aspire to be judged?</item>
+
+	</list><list id="element-310" list-type="enumerated"><title>One of the most difficult stages in problem solving is to jump start the process of brainstorming solutions.  If you are stuck then here are some generic options guaranteed to get you "unstuck."</title>	
+
+<item><emphasis>Gather Information:</emphasis> Many disagreements can be resolved by gathering more information.  Because this is the easiest and least painful way of reaching consensus, it is almost always best to start here.  Gathering information may not be possible because of different constraints: there may not be enough time, the facts may be too expensive to gather, or the information required goes beyond scientific or technical knowledge.  Sometimes gathering more information does not solve the problem but allows for a new, more fruitful formulation of the problem.  Harris, Pritchard, and Rabins in Engineering Ethics: Concepts and Cases show how solving a factual disagreement allows a more profound conceptual disagreement to emerge.</item>
+
+<item><emphasis>Nolo Contendere.</emphasis>  Nolo Contendere is latin for not opposing or contending.  Your interests may conflict with your supervisor but he or she may be too powerful to reason with or oppose.  So your only choice here is to give in to his or her interests.  The problem with nolo contendere is that non-opposition is often taken as agreement.  You may need to document (e.g., through memos) that you disagree with a course of action and that your choosing not to oppose does not indicate agreement.</item>
+<item><emphasis>Negotiate.</emphasis>  Good communication and diplomatic skills may make it possible to negotiate a solution that respects the different interests.  Value integrative solutions are designed to integrate conflicting values.  Compromises allow for partial realization of the conflicting interests.  (See the module, The Ethics of Team Work, for compromise strategies such as logrolling or bridging.)  Sometimes it may be necessary to set aside one's interests for the present with the understanding that these will be taken care of at a later time.  This requires trust.</item>
+
+<item><emphasis>Oppose.</emphasis>  If nolo contendere and negotiation are not possible, then opposition may be necessary.  Opposition requires marshalling evidence to document one's position persuasively and impartially.  It makes use of strategies such as leading an "organizational charge" or "blowing the whistle."  For more on whistle-blowing consult the discussion of whistle blowing in the Hughes case that can be found at computing cases.</item>
+<item><emphasis>Exit.</emphasis>  Opposition may not be possible if one lacks organizational power or documented evidence.  Nolo contendere will not suffice if non-opposition implicates one in wrongdoing.  Negotiation will not succeed without a necessary basis of trust or a serious value integrative solution.  As a last resort, one may have to exit from the situation by asking for reassignment or resigning.</item></list>
+
+</section>
+
+<!-- END OF SECOND SECTION -->
+
+
+<!-- START OF THIRD SECTION -->
+   <section id="whatYouWillDo-section">
+   <title>What you will do ...</title>
+
+<para id="what-you-will-do-section"><title> Sample description of module activities</title> 
+In this section you will explore different activities designed to give you practice in identifying ethical issues in real world situations, carrying out ethical analysis, designing solutions to ethics problems, and implementing ethical solutions over situational constraints.  </para><para id="element-431"><title> Sample instructions to students - Pre-Test for Introduction to Computers </title>
+Read the following scenario (Step 1).  Then individually or in groups carry out steps two through three. </para>
+
+</section><list id="element-12" list-type="bulleted"><title>Step 1: Individually evaluate the scenarios below using the following three questions:</title>
+
+<item>Do you think this situation is common/realistic?  Yes or No</item>
+
+<item>Do you think this situation or activity is Ethical or Unethical?</item>
+<item>In general would others agree with your answer to Q #2?  Yes or No</item>
+		</list><list id="element-283" list-type="bulleted"><title>Betting Pool: While reviewing e-mail messages a manager discoves someone using the company's e-mail system to operate a weekly betting pool.</title>
+
+<item>Do you think this situation is common/realistic?  Yes or No</item>
+
+<item>Do you think this situation or activity is Ethical or Unethical?</item>
+
+<item>In general would others agree with your answer to Q #2?  Yes or No</item>
+
+	</list><para id="element-51"><title> Step Two: Informally share or discuss your answers with the class.  Use the space below to make notes.
+
+
+
+
+
+
+
+
+
+</title></para><para id="element-110">_______________________________________________________________
+
+_______________________________________________________________
+
+_______________________________________________________________</para><list id="element-40" list-type="bulleted"><title>Step Three: Use these tests to structure your discussion of another scenario.</title>
+
+
+<item><emphasis>REVERSIBILITY</emphasis>: Would I think this a good choice if I were among those affected by it?</item>
+
+<item><emphasis>PUBLICITY</emphasis>: Would I want this action published in the newspaper?</item>
+
+<item><emphasis>HARM</emphasis>: Does this action do less harm than any available alternative?</item>
+
+<item><emphasis>FEASIBILITY</emphasis>: Can this solution be implemented given resource, interest, and technical constraints?</item></list><para id="element-164"><title> Sample instructions to students - Gray Matters for Business Ethics </title> 
+Gray Matters is based on an exercise developed by Lockheed Marietta.  Used by companies like Boeing, it consists of evaluating and ranking solutions to the ethical problems raised in short, decision points.  Your job is to read the scenario below, review the solution alternatives, evaluate them in terms of ethics tests, and choose the best.</para><para id="element-157"><title>Gray Matters</title>
+</para><para id="element-115"><title>Pacemaker Case:</title>
+A pacemaker manufacturing company (PACE Inc.) located in a small town in Puerto Rico provides jobs to about 80% of the town’s workforce. Profit margins are thin in this competitive field which includes larger U.S. companies. You are on an R and D team for PACE that has studied two options for the circuitry: BULK CMOS and SOI. The team favors BULK CMOS because the manufacturing process is simpler and cheaper. But the chips will be larger and consume more energy; this means more surgery for the patients to replace the batteries. Overall, the use of BULK CMOS would reduce patient life expectancy by 15%. Given this knowledge, what should you do?</para><list id="element-866" list-type="bulleted"><title>Solution Alternatives</title>
+	<item>Go along with the team and advocate the simpler and cheaper process.</item>
+<item>Oppose the team and advocate the more complex, more expensive, but safer process.  Try to persuade the team members to opt for safety.</item>
+<item>Oppose the team.  Force agreement by threatening to blow the whistle.</item>
+<item>Resign from PACE, Inc.</item>
+<item>Design your own solution.</item>	</list>
+
+<!-- END OF THIRD SECTION -->
+
+
+<!-- START OF FORTH SECTION -->
+   <section id="whatDidYouLearn-section">
+   <title>What did you learn?</title>
+
+<para id="what-did-you-learn-section">This section provides closure to the module for students.  It may consist of a formal conclusion that summarizes the module and outlines its learning objectives.  It could provide questions to help students debrief and reflect on what they have learned. Assessment forms (e.g., the “Muddiest Point” Form) could be used to evaluate the quality of the learning experience.  In short, this section specifies the strategy for bringing the module to a close. </para><para id="element-963"><title>Sample Module Close Out</title>
+Reflection helps us successfully to close the act of learning.  Module activities are designed to give us feedback on our decisions and problem solving.  How did your group, your class, and your teacher react to your conclusions and arguments?  What can you learn from these reactions?</para><list id="element-429" list-type="bulleted"><title>Sample Closing Exercise</title>
+	<item>Reasonableness consists of seeking value integrative solutions to ethical problems, drawing compromises without sacrificing integrity, being open to the ideas of others, and providing careful explanations and justifications of your own ideas.  Evaluate yourself and your classmates on how well you realized this virtue during this exercise</item>
+	<item>Polarization of positions, interests, and people is one of the biggest blocks to problem solving in ethics.  It consists of dividing solutions, interests, positions, and people into two camps, one (those who agree with you) being absolutely good, the other (those who disagree with you) being absolutely bad.  Did you see evidence of polarization during this activity?</item>
+	<item>Give your teacher some feedback here.  What was the strongest point of this exercise?  The weakest point?</item>
+<item>Finally, list five things that you learned as a result of this exercise.</item></list>
+
+</section>
+
+<!-- END OF FOURTH SECTION -->
+
+
+<!-- START OF APPENDIX SECTION -->
+   <section id="appendix-section">
+   <title>Appendix</title>
+
+<para id="appendix">This optional section contains additional or supplementary information related to this module. It could include: assessment, background such as supporting ethical theories and frameworks, technical information, discipline specific information, and references or links. </para>
+
+   <section id="links-section">
+   <title>Useful EAC Links</title>
+
+<list id="element-312" list-type="bulleted">
+
+
+
+<title> Included with this module are a series of links designed to connect students with materials available online that provide background information in ethics. Review them, keep the links useful for your module, and delete those that go beyond your module's scope. </title>
+
+<item> The glossary available through Online Ethics provides concise and relatively
+noncontroversial definitions of terms important to ethics</item>
+
+<item> The link to Computing Cases provides a general orientation to the ethics tests
+used in the pre-test and gray matters exercises.  Computing Cases also contains
+materials from six extensive case study analyses that have been prepared with 
+funds from the NSF.</item>
+
+<item> Gary Comstock's NSF-funded project, Langure, provides browsers with several
+modules on research ethics that can be combined into different courses.  Comstock
+has prepared an excellent introduction to the ethical theories of utilitarianism,
+deontology, and virtue ethics.  This is useful for teachers who want to take a 
+more theoretical approach to teaching their ethics module.</item>
+
+<item> Ethics Updates, a website developed and maintained by Larry Hinman from the 
+University of California, San Diego, provides excellent materials and links in
+areas such as applied ethics, theoretical ethics, and ethics across the curriculum.
+The theoretical ethics section has links to several classical philosophical texts
+in ethics that are publicly available online. </item>
+
+<item> The EAC Module Collection, the last link, draws together resources available
+on Connexions for developing, assessing, and disseminating EAC modules.	
+</item>
+</list>
+
+</section>
+
+</section>
+
+<!-- END OF APPENDIX SECTION -->
+
+<!-- START OF EAC TOOLKIT REFERENCE SECTION -->
+   <section id="info-section">
+   <title>EAC ToolKit Project</title>
+
+   <section id="ref-info">
+   <title>This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.</title>
+   <para id="message">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="nsf-info">
+   <title>Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</title>
+   <para id="message3"/>
+   </section>
+</section>
+
+
+</content>
+</document>

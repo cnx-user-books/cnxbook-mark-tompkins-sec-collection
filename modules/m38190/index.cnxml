@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Editing Module Files</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38190</md:content-id>
+  <md:title>Editing Module Files</md:title>
+  <md:abstract>This module explains how to upload associated files to a module.</md:abstract>
+  <md:uuid>127de6e8-4a28-4374-a9a3-0ec6bb12ae24</md:uuid>
+</metadata>
+
+<content>
+
+
+	<para id="createfileimage">It is possible to <link document="m10887">create a module</link> with just textual information. In this case, the <link document="m38193">content</link> is all included in the CNXML file of the module. But in some cases you may want to include associated files with your module content, like an image, video, PDF, PPT, or other file. 
+
+</para>
+	
+<para id="eip-77">You can upload associated files on the "Files" tab at the top of the module edit page. In this case, the module is really more like a "box", which can contain any number of files associated with the module in addition to the CNXML file itself. When you upload files, you create an instance of the file in Connexions that you can then <link target-id="eip-846">link to</link> from your module for readers to download, or even <link document="m12660">embed</link> directly into your module.</para><para id="eip-371">This module will explain how to:
+<list id="toclist" list-type="bulleted"><item><link target-id="uploadingfiles">Upload files</link> to your module</item>
+  <item><link target-id="eip-846">Link to files</link> in your module</item>
+  <item><link target-id="managefiles">Manage files</link> on the "Files" tab</item>
+</list></para><section id="uploadingfiles"><title>Uploading Files</title>
+
+    <section id="filenamerestrictions">
+      <title>File Guidelines</title>
+        <para id="filenamepara1">
+            Before you add an associated file to a module, please note the 
+            following guidelines for files and filenames: 
+            <list id="filenamelist1"><item>The size of a file must be smaller than 50 MB.</item>
+              <item>The first character in a filename cannot be a digit. For
+              example, a file named "1965mustangphoto.gif" would result in an 
+              error. <link target-id="renamingfilesec">Renaming</link> 
+              the file to "photo1965mustang.gif" prevents the error.</item>
+              <item>A filename cannot contain an embedded blank space. For 
+              example, the file named "eiffel tower.png" would cause an error. 
+              <link target-id="renamingfilesec">Renaming</link> the 
+              file to "eiffel_tower.png" or "eiffeltower.png" prevents the error.</item>
+              <item>Use only alphanumeric, "." (dot), "-" (hyphen), and "_" 
+              (underscore) characters in a filename. </item>
+              <item><link document="m12660">Multimedia files</link> must have a 
+              recognized MIME (Multipurpose Internet Mail Extension) type.</item>
+            </list>  
+        </para>
+    </section>
+    
+    <section id="createfileimage2"><title>Uploading a file to a module</title><para id="addimagepara1">To add a file to a module, use the following steps:</para>
+
+	    <list id="addfilelist1" list-type="enumerated"><item>Click on the <link target-id="module-files-fig">"Files" tab</link>. This page shows a list of all included files in the module. The <code>index.cnxml</code> file exists in every module -- this is the CNXML file that creates the module contents which you edit on the <code>Edit</code> tab. 
+</item>
+<item>Click the <code>Add new image/included file</code> button to add a file.</item>
+</list>
+	    
+<figure id="module-files-fig">
+  <media id="module-files-media" alt="The Files tab." display="block">
+    <image src="../content/m19610/latest/module-files.png" mime-type="image/png"/>
+  </media>
+<caption>The "Files" tab with the "Add new image/included file" button.</caption>
+</figure>
+
+	    <list id="addfilelist2" start-value="3" list-type="enumerated">
+<item>Click <code>Browse</code> to navigate to the file in your system that you want to upload.</item>
+	      <item>Click the blue <code>Upload</code> button to upload the file into 
+	      Connexions. A confirmation message will display, along with a preview if
+the file is an image.</item>
+	    </list>
+
+    <figure id="uploadNewFile-fig">
+  <media id="uploadNewFile-media" alt="File upload page." display="block">
+    <image src="../content/m19610/latest/uploadNewFile.png" mime-type="image/png"/>
+  </media>
+<caption>The file upload page.</caption>
+</figure>
+
+	    <list id="addfilelist3" start-value="5" list-type="enumerated"><item>Click the <code>&lt;&lt;Return to file listing for module</code> link at the top of the page to return to a list of all files uploaded to this module. Here you can click the <code>Add new image/included file</code> button and start the process over to upload another file.</item>
+</list></section>
+
+    <section id="eip-606"><title>Uploading multiple files at once</title><para id="eip-919">If you have a lot of files that you want to include in a module, uploading them one by one can take a while. You can use the <link document="m38952" target-id="zip">ZIP importer</link> to import multiple files at once.
+</para>
+
+<figure id="module-files-zipimport-fig">
+  <media id="module-files-zipimport-media" alt="Zip importer." display="block">
+    <image src="../content/m19610/latest/module-files-zipimport.png" mime-type="image/png"/>
+  </media>
+<caption>The zip importer imports multiple files at once.</caption>
+</figure></section>
+
+</section>
+
+<section id="eip-846"><title>Linking to files</title><para id="linktofilespara">Readers can download a file that you added in two ways.
+
+<list id="eip-61" list-type="enumerated" number-style="arabic"><item>By adding the file to the module's <link document="m38206">Featured Links</link>. This is probably the easiest way, but although the links appear online, they will not be included in the PDFs that are automatically generated.</item>
+<item>You can add a link to the file within the module text. If the file you added was called "myfile.doc", you would add the following snippet to your module. "Download this <code id="id5245662" display="inline">&lt;link resource="myfile.doc"&gt;file.&lt;/link&gt;</code>" More instructions on adding links in modules can be found on the <link url="http://cnx.org/eip-help/link">&lt;link&gt; eip-help page</link>.
+
+</item>
+</list>
+
+
+<note id="eip-id1165362042862">You can also <link document="m12660">embed</link> the file into the CNXML document using the CNXML<code>&lt;media&gt;</code> tags.</note></para></section>
+
+<section id="managefiles"><title>Managing Files</title><!-- This section copied almost verbatim from m37476 -->
+<note id="indexcnxmlnote" type="warning"><emphasis>Do not</emphasis> remove or rename the <code>index.cnxml</code> file. This file holds the text and CNXML-markup of your module.</note>
+
+      <section id="removingfiles">
+        <title>Removing Files</title>
+        <para id="removepara">To remove a file from a module, select the checkbox next to the title
+        of the file you want to remove and click <code>Remove</code>. You can select
+        multiple files in the module and remove them in one operation. 
+        </para>
+      </section>
+      <section id="renamingfilesec"><title>Renaming Files</title><para id="renamefilepara">
+        To rename a file in a module, use the following steps:
+
+          <list id="renamelist" list-type="enumerated">
+            <item>Select the checkbox next to the title of the file you want to rename 
+        and click <code>Rename</code>. The "Rename items" screen displays.</item>
+            <item>Enter the new name for the file in the "New File Name" field.</item>
+            <item>Click <code>Rename All</code>. You can rename multiple files at one 
+        time by selecting more than one item by clicking on the work area contents 
+        screen. </item>
+            <item>Update any existing links in your module to point to the new file name.</item>
+          </list>
+
+        The files displayed on the "Files" tab are updated to reflect the 
+        changes.        
+        </para>
+      </section>
+      <section id="cuttingcoying"><title>Cutting or Copying Files</title><para id="movingmodulespara1">
+        To copy and paste files in one module to a different module, use the following steps:
+
+          <list id="copylist" list-type="enumerated">
+            <item>Select the checkbox next to the title of the files you want to 
+              cut or copy and click <code>Cut</code> or <code>Copy</code>. 
+              <code>Cut</code> removes the original item at the end of this process. 
+              <code>Copy</code> leaves the original item in its present location.</item>
+            <item>Display the location where you wish to paste the file, such as
+              another module or work area, and click <code>Paste</code>.</item>
+          </list>
+        </para>
+      </section>
+
+<!-- End section copied almost verbatim from m37476 -->
+</section>
+
+
+</content>
+
+</document>

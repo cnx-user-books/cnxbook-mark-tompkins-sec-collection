@@ -1,0 +1,139 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>EAC Toolkit - Instructor Module Template</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>c60e296f-e1e3-4249-813f-7a2be992dc6c</md:uuid>
+</metadata>
+
+<!-- TO EDIT THE INFORMATION ABOVE GO TO THE METADATA SECTION TAB -->
+
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<content>
+
+<note type="HOW TO EDIT" id="idp1199168"><label>HOW TO EDIT</label>Write your module directed towards instructors who wish to use the corresponding student module. To complete or edit the sections below erase the provided textual commentaries then add your own content using one or more of the following strategies:
+<code display="block" id="idp7039952">- Type or paste the content directly into the appropriate section
+
+- Link to a published CNX module or an external online resource
+  using the “Links” tabs (see example on the right)
+
+- Link to a document or multimedia file within the content after
+  uploading the file using the “Files” tab (see example below)
+
+- Cite content not available online
+</code>
+</note>
+
+
+<!-- LINK TO MULTIMEDIA FILE UPLOADED AND STORED IN FILES SECTION OF MODULE -->
+
+<figure id="figure-example"><title>Word Version of this Template</title>
+  <media id="idm7487424" alt=""><download src=" EAC TK INST TEMPLATE.doc" mime-type="application/msword"/></media>
+  <caption>This is an example of an embedded link. (Go to "Files" tab to delete this file and replace it with your own files.)</caption>
+
+<!-- NOTE: Other common MIME TYPES are &#8220;image/jpeg&#8221; for ___.jpg, &#8220;audio/mpeg&#8221; for ___.mpg,&#8220;video/quicktime&#8221; for ___.mov, &#8220;application/powerpoint&#8221; for ___.ppt
+&#8220;application/excel&#8221; for ___.xls OR you can search for other MIME TYPES-->
+</figure>
+
+<!-- START OF INSTRUCTOR INFORMATION SECTION -->
+  <section id="inst-info-section">
+  <title>Instructor Information (Sharing Best Practices in EAC)</title>
+
+<para id="module-info">This section contains information related to the corresponding Student Module. The intent and expectation is that this information will evolve based on the experiences and collaborations of authors and users. The following categories will sort out this information as authors, collaborators and users experiment with the modules.</para>
+
+<note type="STUDENT MODULE" id="idm7026512"><label>STUDENT MODULE</label>Provide a link to the corresponding student module in Connexions (cnx.org) and/or references to relevant … 
+<code display="block" id="idp13566992">- modules or resources available online
+- textbook cases or exercises
+- magazine or journal articles
+- news stories
+- movies, programs or plays
+- etc.</code>
+</note>
+
+</section>
+ 
+<!-- END OF INSTRUCTOR INFORMATION SECTION -->
+
+
+
+<!-- START OF SECOND SECTION -->
+   <section id="module-Background-Information-section">
+   <title>Module-Background Information</title>
+
+<para id="moduleBackground-section">Source, condition and use-history of the module</para>
+
+</section>
+
+<!-- END OF SECOND SECTION -->
+
+
+<!-- START OF THIRD SECTION -->
+   <section id="learningObjectives-section">
+   <title>Learning Objectives</title>
+
+<para id="learning-objectives-section">Objectives and outcomes for the module including references to accreditation criteria or standards</para>
+
+</section>
+
+<!-- END OF THIRD SECTION -->
+
+
+<!-- START OF FORTH SECTION -->
+   <section id="instructionalPedagogicalStrategies-section">
+   <title>Instructional / Pedagogical Strategies</title>
+
+<para id="instructional-pedagogical-strategies-section">Pedagogical or instructional strategies used or suggested for this module. Examples: lecture, discussion, debate, decision-making, presentation, dramatization, role playing, cooperative learning, formal or informal writing, etc.</para>
+
+</section>
+
+<!-- END OF FOURTH SECTION -->
+
+<!-- START OF FIFTH SECTION -->
+   <section id="assessmentAssuranceOfLearning-section">
+   <title>Assessment / Assurance of Learning</title>
+
+<para id="assessment-assurance-of-learning-section">Assessment or assurance of learning methodology. Examples: 1-minute paper, muddiest point, quiz/test items, oral presentation, student feed-back, etc.</para>
+
+</section>
+
+<!-- END OF FIFTH SECTION -->
+
+<!-- START OF SIXTH SECTION -->
+   <section id="pedagogicalCommentary-section">
+   <title>Pedagogical Commentary</title>
+
+<para id="pedagogical-commentary-section">Suggestions for improvements to authors or instructors, questions or comments directed to the EAC community, pitfalls or frustrations, novel approaches including new uses</para>
+
+</section>
+
+<!-- END OF SIXTH SECTION -->
+
+
+<!-- START OF SEVENTH SECTION -->
+   <section id="other-section">
+   <title>Other</title>
+
+<para id="other">Anything else?</para>
+
+</section>
+
+<!-- END OF SEVENTH SECTION -->
+
+<!-- START OF EAC TOOLKIT REFERENCE SECTION -->
+   <section id="info-section">
+   <title>EAC ToolKit Project</title>
+
+   <section id="ref-info">
+   <title>This module is a WORK-IN-PROGRESS; the author(s) may update the content as needed.  Others are welcome to use this module or create a new derived module.  You can COLLABORATE to improve this module by providing suggestions and/or feedback on your experiences with this module.</title>
+   <para id="message">Please see the <link url="http://creativecommons.org/licenses/by/2.0/">Creative Commons License</link> regarding permission to reuse this material.</para>
+   </section>
+
+<section id="nsf-info">
+   <title>Funded by the National Science Foundation: "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF-SES-0551779</title>
+   <para id="message3"/>
+   </section>
+</section>
+
+<!-- END OF EAC TOOLKIT REFERENCE SECTION -->
+
+</content>
+
+</document>

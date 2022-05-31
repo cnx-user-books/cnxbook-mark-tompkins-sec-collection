@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Instructor Module English--Three Frameworks for Ethical Decision-Making and Good Computing Reports</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33046</md:content-id>
+  <md:title>Instructor Module English--Three Frameworks for Ethical Decision-Making and Good Computing Reports</md:title>
+  <md:abstract>This instructor module provides pedagogical commentaries on teaching the student module, Three Frameworks for Ethical Decision-Making and Good Computing Reports (m13757).  It is bilingual with Spanish commentary provided by Ramon Ramos-Chevres and rough English translations provided by William Frey.  It and the corresponding student module have been developed as a part of an NSF-funded project, "Collaborative Development of Ethics Across the Curriculum Resources and Sharing of Best Practices," NSF SES 0551779.</md:abstract>
+  <md:uuid>1576b0bd-f4a2-4295-8d2a-8c8f3ce2952e</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1166546834699">
+      <emphasis effect="bold">Instructor Module Template</emphasis>
+    </para>
+    <para id="id1166546864871"/>
+    
+    <para id="id1166542721128"><emphasis effect="bold">Student Module Title</emphasis>: Three Frameworks for Ethical Decision Making and Good Computing Reports  m13757</para>
+    
+    <para id="id1166543531870"><title> Introduction/ Summary</title>I. Summarize the student module. Include the content objectives and skill objectives of the student as well as the exercises it features.</para>
+    <para id="id1166546069578">
+      <emphasis effect="bold">Este módulo le provee al estudiante herramientas que va a utilizar en el proceso de tomar decisiones basadas en el concepto de la ética. Una vez que los estudiantes tuvieron la oportunidad de adquirir el módulo, de estudiarlo y de recibir explicación del profesor acerca de los objetivos, metas e instrucciones, estarán preparados para comenzar un proceso de análisis junto con el profesor. Los estudiantes analizarán distintos casos por medio de esta herramienta cumpliendo con el objetivo principal que es integrar la ética en su proceso de tomar decisiones. Se deberá aplicar en el análisis, los tres marcos de referencia: división del proceso de tomar decisiones, proceso de probar las soluciones y la prueba de viabilidad. </emphasis>
+    </para>
+    <para id="eip-215">This module provides the student with tools that can be used to make ethical decisions.  Students read the module and then attend a formal presentation given by the instructor that outlines the four stages of decision-making.  This helps prepare them for case-based, decision-making exercises carried out with feedback provided by the instructor.  When they use the three frameworks discussed in the module to analyze case studies, they succeed in integrating ethics into the decision-making process.  Of the three frameworks discussed in the module, one condenses decision making into four stages (problem specification, solution generation, solution testing, and solution implementation), another offers three tests to validate the ethics of solution alternatives (reversibility, harm/benefits, and publicity), and a third covers solution implementation by examining obstacles that arise during this phase (such as resource, interest, and technical constraints).  </para><para id="id1166542448094">II. Preparing the environment/atmosphere. In this section, discuss what can be done to create an environment or atmosphere conducive to bringing about the learning objectives of the student module. This could include background readings, advance home work, pre-module writing, activities to get students accustomed to discussing, and so forth.</para>
+    <para id="id1166544699822">
+      <emphasis effect="bold">Con el objetivo de crear un ambiente de discusión y análisis de este modulo, se</emphasis>
+      <emphasis effect="bold">recomiendan estrategias para lograr el interés del estudiante. Como introducción al modulo, se podría asignar una tarea donde el estudiante deba analizar un caso y tomar una decisión utilizando como herramientas “sus experiencias individuales”. De manera que, sea el propio estudiante que utilice juicios valorativos y se acerque al uso del concepto de la ética y toma de decisiones. Una vez captada esa atención del estudiante, se le provee la información necesaria para el análisis basado en el modulo: contenido del modulo, ejemplos y discusiones de casos, recursos externos como libros, periódicos, revistas y material que cumpla con los objetivos del modulo. Se espera que el estudiante asuma una posición de discutir y debatir ideas en un ambiente amigable y de confianza. Se espera que esto facilite el aprendizaje, por lo que el profesor/ a debe: </emphasis>
+    </para>
+    <para id="eip-845">Several strategies can be used to create an environment conducive to discussion and analysis.  To introduce the module, the teachers can assign students a case and have them informally analyze it using their experience as a frame of reference.  Getting students used to making value judgments helps them to practice the different skills involved in ethical thinking and decision-making.  Such pre-module homework awakens the students' interest in ethics and can form a basis upon which the teacher can build by providing more information, examples of ethical problems, case discussions, external resources,(books, newspapers, magazines, movies, novels) and other resources that promote ethical decision-making.  Moreover, this module gives students practice adopting and defending a position in a civil and confident manner.  </para><list id="id1166534769372" list-type="bulleted">
+      <item>
+        <emphasis effect="bold">Dar la oportunidad a que el estudiante hable libremente haciendo preguntas y conversando con los estudiantes de una forma organizada.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="bold">Escuchar con atención a cada integrante del grupo y dar su interpretación.</emphasis>
+      </item>
+    </list>
+    
+    <list id="id1166535885743" list-type="bulleted">
+      <item>
+        <emphasis effect="bold">Estructurar un dialogo con el resto de la clase.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="bold">Permitir interpretaciones de otros estudiantes.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="bold">Identificar aquellas respuestas que cumplen con los objetivos del modulo y publicarla ante todos.</emphasis>
+      </item>
+      <item>
+        <emphasis effect="bold">Estar disponible y preparado/a para aclarar dudas. </emphasis>
+      </item>
+    </list>
+    <list id="eip-253"><title>Suggestions to Facilitate Learning</title><item>Give students the opportunity to speak freely, ask questions, and discuss issues with classmates in an orderly manner.</item>
+
+<item>Listen to other speakers attentively and actively interpret what they hear.</item>
+
+<item>Hold a structured dialogue with the rest of the class. </item>
+
+<item>Permit interpolations and comments from other students.</item>
+
+<item>Identify and underline student responses that advance module objectives by instantiating ethical principles and concepts.</item>
+
+<item>Be open to answering questions and responding to doubts.</item></list><para id="id1166539859324">III. Learning Objectives: Choose one or both of the following set of moral learning objectives.  (The UPRM objectives map almost completely on the Hastings Center objectives.) 
+
+</para>
+    
+    <list id="eip-510" list-type="bulleted" bullet-style="bullet"><title>UPRM  Ethical Objectives</title><item><emphasis>Ethical Awareness</emphasis>: Students are able to recognize and characterize the ethical issues that arise in ordinary situations. In pre       test format, student recognizes one ethical issue embedded in a realistic scenario.</item>
+	<item><emphasis>Ethical Integration</emphasis>: Students use ethical considerations as specifications in “designing” a solution to a realistic ethical problem. They design solutions to ethical problems that properly and adequately respond to ethical considerations or ethics tests. </item>
+	<item><emphasis>Preventive Ethics</emphasis>: Students uncover a latent or potential ethical problem and design effective counter measures. They use sociothecnical analysis or other “tool” to find value conflicts that arise with the implementation of a new product or service and design countermeasures to defuse the conflict. </item>
+	<item><emphasis>Value Integration</emphasis>: Students find opportunities in realistic situations for realizing moral value through the exercise of their technical and occupational skills. In consultation with a local community, they identify a need and develop means to respond to this need; usually done in service learning context.</item>
+	<item><emphasis>Ethical Evaluation</emphasis>: Students use ethical considerations (approaches, tests) to evaluate and rank alternative solutions to a realistic decision – eliciting situation. In a Gray Matters activity, students correctly rank the alternatives in response to an ethics dilemma or situation.</item></list><list id="eip-731"><title>Hasting Center Skills</title><item><emphasis>Moral Imagination</emphasis>: Module allows students to practice and develop their moral imaginations. Students successfully employ reversibility test to view action alternative from the standpoint of one of the action’s targets.</item>
+	<item><emphasis>Moral Sensitivity</emphasis>:Module raises students’ sensitivity to the moral issues that arise in everyday situations. Students successfully identify moral issues embedded in scenario in pre-test or Gray Matters format.</item>
+	<item><emphasis>Moral Analysis</emphasis>: Students practice and develop ability to analyze moral concepts and principles. They successfully employ moral approaches and principles in debate of moral issues. (Ethics Bowl or chair debate)</item>
+	<item><emphasis>Moral Responsibility</emphasis>: Module elicits from students a sense of moral responsibility. They employ concepts in moral responsibility to assign praise or blame in a moral case or scenario.</item>
+	<item><emphasis>Tolerating ambiguity and disagreement</emphasis>: Module helps students tolerate moral ambiguity and disagreement while striving for moral clarity and agreement. Students debate a difficult and controversial moral case with clarity and civility.</item>
+</list><para id="eip-526">IV. Relationship of student module to ethics requirements of targeted accreditation effort
+AACSB
+</para><list id="eip-127"><item><emphasis>Ethical Leadership</emphasis>: Helping students to “see the criticality of ethical leadership to effective and successful management.”</item>
+	<item><emphasis>Ethical Decision-Making</emphasis>: Learning experiences should expose students to cases and types of ethical issues that they are likely to face in the business world—both to enhance their abilities to recognize ethical issues and to increase their ethical sensitivity and awareness.”</item>
+	<item><emphasis>Responsibility of Business in Society</emphasis>: Students should “understand the symbiotic relationship between business and society, especially in terms of the moral dimensions of the power placed in the hands of owners and managers.”</item>
+</list><list id="eip-947"><title>Corporate Governance</title><item>Role and responsibilities of board of directors and audit committee.</item>
+	<item>Internal controls and role responsibilities of management.</item>
+	<item>Monitoring activities such as internal auditing.</item>
+	<item>Element of an effective code of conduct.</item>
+	<item>U.S. Federal Sentencing Guidance and Sarbanes-Oxly.</item>
+	<item>Components of an effective corporate compliance program</item>
+	<item>Role responsibilities of public accountants, counsel, and regulatory bodies (EETF 14)</item>
+</list><para id="eip-410"><emphasis effect="bold">Source: Ethics Education in Business Schools: Report of the Ethics Education Task Force to AACSB Internal’s Board of Directors</emphasis>
+</para><list id="eip-578"><title>Relation To Acreditation Effort: ABET</title><item><emphasis>Criterion 3c</emphasis>: Ethics (and others components) in design.</item>
+	<item><emphasis>Criterion 3d</emphasis>: Multidisciplinary Team Skills.</item>
+	<item><emphasis>Criterion 3f</emphasis>: Professional Ethical Responsibility.</item>
+	<item><emphasis>Criterion 3h</emphasis>: Understanding global and social impacts of engineering.</item>
+	</list><para id="eip-236">V. Pedagogical Strategies (This list is, by no means, exhaustive. Space provided for strategies not mentioned previously)</para><list id="eip-579"><item><emphasis> Lecture</emphasis>: Providing summaries and explanation of materials in form of formal or informal class presentation by teacher.</item> 
+<item><emphasis>Reading / Pre-module Assignments</emphasis>: Students are assigned readings and other activities to help them prepare for module.</item> 
+<item><emphasis>Writing (Formal and Informal / Individual and Group) </emphasis>: Students prepare individually or in groups formal or informal written responses to module content.</item> 
+<item><emphasis>Discussion (Class and Group / Formal and Informal)</emphasis>: Teachers pose questions to student for discussion. Students give formal or informal presentations.</item> 
+<item><emphasis>Individual or group activities</emphasis>: Students are divided in groups to carry out different exercises. Students carry out exercises individually.</item> 
+<item><emphasis>Debate</emphasis>: A form of discussion where students take and defend a position.</item> 
+<item><emphasis>Framework-Driven</emphasis>: Module allows for practicing frameworks (heuristics like decision-making procedures) or tests (ethical approaches, ethics tests)</item> 
+<item><emphasis>Identifying and reinforcing “good move” moments</emphasis>: Teacher underlines / emphasizes student comments that advance the module’s learning objectives.</item> </list><para id="id1166539282509">VI. Assurance of Learning (“Tools” and Descriptions)</para>
+    <list id="eip-695"><item><emphasis>Muddiest Point</emphasis>: Students are asked to discuss or write on the parts of the module they found most difficult.</item>
+<item><emphasis>Two Minute Paper (Informal class or out of class "writes")</emphasis>: Students write a short essay responding to and reflecting on the module and learning experience.</item>
+<item><emphasis>Discussion Points</emphasis>: A formal or informal discussion is held with the class (or groups) reflecting on the module learning experience.</item>
+<item><emphasis>Observer/Assessor Observations</emphasis>: An outside observer attends class while the module is presented and provides feedback.</item>
+<item><emphasis>Feedback (Evaluation) Forms</emphasis>: Forms designed to elicit feedback on the module. (For example: forms that have students rate and rank different modules.)</item>
+<item><emphasis>Connexions® EAC Toolkit Instructor Module</emphasis>: Assessment experiences can be integrated to develop a Toolkit Instructor Module.</item>
+<item><emphasis>Formal Evaluation Forms (Student and Peer)</emphasis>: Forms used by department or university to gather formal evaluation data.</item></list>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </content>
+</document>
