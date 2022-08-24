@@ -1,139 +1,72 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Book">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Book" authors="Mark Tompkins Sec">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12077</md:content-id>
-  <md:title>Mark Tompkins SEC Collection</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>869579d2-abdf-4a3f-91cd-bec4207dec5b</md:uuid>
-<md:slug>mark-tompkins-sec-collection</md:slug>
-</metadata>
-
+    <md:content-id>col12077</md:content-id>
+    <md:title>Mark Tompkins SEC Collection</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>869579d2-abdf-4a3f-91cd-bec4207dec5b</md:uuid>
+    <md:slug>mark-tompkins-sec-collection</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m14351">
-        <col:featured-links>
-          
-            <cnxml:link-group type="prerequisite">
-              <cnxml:link url="http://cnx.org/content/m13764/latest/">Theory Building Activities: Mountain Terrorist Exercise</cnxml:link>
-              <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Latest version Open Module Template</cnxml:link>
-            </cnxml:link-group>
-          
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/m13853/latest/">Muddiest Point for Ethics Modules</cnxml:link>
-              <cnxml:link url="http://cnx.org/content/col10399/latest/">Professional Ethics in Engineering</cnxml:link>
-              <cnxml:link url="http://cnx.org/content/col10396/latest/">Corporate Governance</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m38209"/>
-        
-      
-    
-    
-      <col:module document="m38190"/>
-        
-      
-    
-    
-      <col:module document="m14387">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Latest version Open Module Template</cnxml:link>
-            </cnxml:link-group>
-          
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://www.iit.edu/departments/csep/eac/post_workshop/FinalReport_JoseCruz.pdf">Report on Engineering Ethics Bowl by Jose Cruz</cnxml:link>
-              <cnxml:link url="http://cnx.org/content/m13817/latest/">Ethics Bowl Rules and Procedures</cnxml:link>
-              <cnxml:link url="http://cnx.org/content/m13852/latest/">Ethics Bowl: Cases and Score Sheets</cnxml:link>
-              <cnxml:link url="http://computingcases.org/general_tools/teaching_with_cases/teaching_w_cases_intro.html">Advice on Teaching With Cases</cnxml:link>
-            </cnxml:link-group>
-          
-          
-            <cnxml:link-group type="prerequisite">
-              <cnxml:link url="http://cnx.org/content/m14386/latest/">EAC Toolkit - UPRM Ethics Bowl - IIT Summer Institute Follow-up</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m38193"/>
-        
-      
-    
-    
-      <col:module document="m33046"/>
-        
-      
-    
-    
-      <col:module document="m36908"/>
-        
-      
-    
-    
-      <col:module document="m15454">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.org/content/col10414/latest/">(5) EAC Toolkit Module Collection</cnxml:link>
-              <cnxml:link url="http://ethics.sandiego.edu/">(4) Ethics Updates</cnxml:link>
-              <cnxml:link url="http://www.chass.ncsu.edu/langure/documents/Lecture3FourEthicalPrincipleswithquestions.pdf">(3) Langure Project</cnxml:link>
-              <cnxml:link url="http://www.computingcases.org/general_tools/teaching_with_cases/ethics_tests/ethics_test_intro.html">(2) Computing Cases</cnxml:link>
-              <cnxml:link url="http://onlineethics.org/CMS/glossary.aspx">(1) Online Ethics Glossary</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m14290">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Original Open Module Template</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m14291">
-        <col:featured-links>
-          
-            <cnxml:link-group type="example">
-              <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Change / update this link</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
+    <col:module document="m14351">
+      <col:featured-links>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://cnx.org/content/m13764/latest/">Theory Building Activities: Mountain Terrorist Exercise</cnxml:link>
+          <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Latest version Open Module Template</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/content/m13853/latest/">Muddiest Point for Ethics Modules</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/col10399/latest/">Professional Ethics in Engineering</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/col10396/latest/">Corporate Governance</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m38209"/>
+    <col:module document="m38190"/>
+    <col:module document="m14387">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Latest version Open Module Template</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://www.iit.edu/departments/csep/eac/post_workshop/FinalReport_JoseCruz.pdf">Report on Engineering Ethics Bowl by Jose Cruz</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m13817/latest/">Ethics Bowl Rules and Procedures</cnxml:link>
+          <cnxml:link url="http://cnx.org/content/m13852/latest/">Ethics Bowl: Cases and Score Sheets</cnxml:link>
+          <cnxml:link url="http://computingcases.org/general_tools/teaching_with_cases/teaching_w_cases_intro.html">Advice on Teaching With Cases</cnxml:link>
+        </cnxml:link-group>
+        <cnxml:link-group type="prerequisite">
+          <cnxml:link url="http://cnx.org/content/m14386/latest/">EAC Toolkit - UPRM Ethics Bowl - IIT Summer Institute Follow-up</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m38193"/>
+    <col:module document="m33046"/>
+    <col:module document="m36908"/>
+    <col:module document="m15454">
+      <col:featured-links>
+        <cnxml:link-group type="supplemental">
+          <cnxml:link url="http://cnx.org/content/col10414/latest/">(5) EAC Toolkit Module Collection</cnxml:link>
+          <cnxml:link url="http://ethics.sandiego.edu/">(4) Ethics Updates</cnxml:link>
+          <cnxml:link url="http://www.chass.ncsu.edu/langure/documents/Lecture3FourEthicalPrincipleswithquestions.pdf">(3) Langure Project</cnxml:link>
+          <cnxml:link url="http://www.computingcases.org/general_tools/teaching_with_cases/ethics_tests/ethics_test_intro.html">(2) Computing Cases</cnxml:link>
+          <cnxml:link url="http://onlineethics.org/CMS/glossary.aspx">(1) Online Ethics Glossary</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m14290">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Original Open Module Template</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
+    <col:module document="m14291">
+      <col:featured-links>
+        <cnxml:link-group type="example">
+          <cnxml:link url="http://www.cnx.org/content/m14029/latest/">Change / update this link</cnxml:link>
+        </cnxml:link-group>
+      </col:featured-links>
+    </col:module>
   </col:content>
 </col:collection>
